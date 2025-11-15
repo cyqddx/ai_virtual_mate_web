@@ -1,2 +1,0 @@
-let camera, scene, renderer, controls, model, helper;
-const mmdPath = 'assets/mmd_model/
